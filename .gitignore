@@ -1,0 +1,13 @@
+netsmabot/movies/config.yaml
+netsmabot/movies/models.pyc
+netsmabot/.nico.py.swp
+netsmabot/.view.py.swp
+.twitbot.py.swp
+netsmabot/__init__.pyc
+netsmabot/nico.pyc
+netsmabot/settings.pyc
+netsmabot/urls.pyc
+netsmabot/view.pyc
+netsmabot/movies/.*.swp
+netsmabot/movies/*.pyc
+niconicomovie.db
